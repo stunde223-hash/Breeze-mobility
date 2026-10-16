@@ -22,4 +22,8 @@ The contact action points to the business's existing Instagram account. There is
 
 ## Design
 
-Photo-led opening, condensed headings, warm ivory, deep green charcoal, and burnt orange accents. Square edges, no gradients, no shadows, no icon library, and no hover animations. Reduced motion is respected. Main content, images, FAQ, and contact links work without JavaScript. Menu enhancements run only on small screens.
+Photo-led opening, condensed headings, warm ivory, deep forest green, and muted gold accents. Square edges, no gradients, no shadows, no icon library, and no hover animations. Reduced motion is respected. Main content, images, FAQ, and contact links work without JavaScript. Menu enhancements run only on small screens.
+
+## Reference refinement
+
+The fleet invitation uses the two-bicycle photograph from Breeze’s About page, optimized as local responsive WebP. Its photo overlay, gold typography, outlined lettering, and operation labels draw on the Royal Green reference. The footer includes an original bicycle route drawing and framed wordmark. FAQPage structured data matches the visible questions and answers. Local search metadata uses the existing published business address; Google Business Profile ownership, live indexing, and AI answer inclusion have not been verified.
