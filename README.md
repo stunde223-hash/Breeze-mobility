@@ -27,3 +27,9 @@ Photo-led opening, condensed headings, warm ivory, deep forest green, and muted 
 ## Reference refinement
 
 The fleet invitation uses the two-bicycle photograph from Breeze’s About page, optimized as local responsive WebP. Its photo overlay, gold typography, outlined lettering, and operation labels draw on the Royal Green reference. The footer uses a fine traced treatment within the oversized wordmark. FAQPage structured data matches the visible questions and answers. Local search metadata uses the existing published business address; Google Business Profile ownership, live indexing, and AI answer inclusion have not been verified.
+
+## Cloudflare Workers deployment
+
+Connect this GitHub repository in Cloudflare Workers & Pages using Import a repository. Use build command `npm run build`, deploy command `npx wrangler deploy`, and repository root `/`. The checked-in wrangler.jsonc deploys only the generated `dist/` static assets. No secrets or environment variables are needed. Select a unique Worker name if `breeze-mobility` is already in use in your account. Review the assigned workers.dev URL after deployment.
+
+The canonical URLs and sitemap still use https://www.breezemobility.bike/. Connect that custom domain before treating the new site as the production replacement, or update those URLs to your chosen permanent domain. Confirm ownership and current DNS before changing the existing live website.

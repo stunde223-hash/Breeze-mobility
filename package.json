@@ -1,1 +1,11 @@
-{"name":"breeze-mobility","version":"1.0.0","private":true,"scripts":{"dev":"python3 -m http.server 3000 --bind 0.0.0.0","start":"python3 -m http.server 3000 --bind 0.0.0.0","test":"node --test tests/site.test.mjs"}}
+{
+  "name": "breeze-mobility",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "start": "python3 -m http.server 3000 --bind 0.0.0.0",
+    "test": "node --test tests/site.test.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
