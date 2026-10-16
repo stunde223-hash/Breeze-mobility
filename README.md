@@ -26,4 +26,4 @@ Photo-led opening, condensed headings, warm ivory, deep forest green, and muted 
 
 ## Reference refinement
 
-The fleet invitation uses the two-bicycle photograph from Breeze’s About page, optimized as local responsive WebP. Its photo overlay, gold typography, outlined lettering, and operation labels draw on the Royal Green reference. The footer includes an original bicycle route drawing and framed wordmark. FAQPage structured data matches the visible questions and answers. Local search metadata uses the existing published business address; Google Business Profile ownership, live indexing, and AI answer inclusion have not been verified.
+The fleet invitation uses the two-bicycle photograph from Breeze’s About page, optimized as local responsive WebP. Its photo overlay, gold typography, outlined lettering, and operation labels draw on the Royal Green reference. The footer uses a fine traced treatment within the oversized wordmark. FAQPage structured data matches the visible questions and answers. Local search metadata uses the existing published business address; Google Business Profile ownership, live indexing, and AI answer inclusion have not been verified.
